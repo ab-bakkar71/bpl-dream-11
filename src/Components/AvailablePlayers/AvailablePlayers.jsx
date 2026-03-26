@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from '../../ui/card';
 
-const AvailablePlayers = ({ playersData }) => {
+const AvailablePlayers = ({ playersData, setCoin, coin }) => {
     
 
     
@@ -9,7 +9,7 @@ const AvailablePlayers = ({ playersData }) => {
         <div>
             <div className='grid grid-cols-3 gap-6'>
                     {
-                    playersData.map((player, index)=> <Card key={index} player={player}></Card>)
+                    playersData.map((player, index)=> <Card key={index} player={player} setCoin={setCoin} coin={coin}></Card>)
                 }
                 </div>
         </div>
