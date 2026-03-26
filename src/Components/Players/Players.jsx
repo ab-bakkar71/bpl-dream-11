@@ -1,4 +1,5 @@
 import React, { use } from 'react';
+import AvailablePlayers from '../AvailablePlayers/AvailablePlayers';
 
 const Players = ({ playersPromise }) => {
 
@@ -6,8 +7,8 @@ const Players = ({ playersPromise }) => {
     console.log(playersData);
     return (
         <div>
-             <div>
-                <h3>Available Players</h3>
+             <div className='container mx-auto'> 
+                <AvailablePlayers playersData={playersData}></AvailablePlayers>
 
              </div>
         </div>

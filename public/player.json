@@ -7,7 +7,7 @@
     "battingStyle": "Right-hand bat",
     "BollingStyle": "Right-arm medium",
     "Price": 2000000,
-    "playerImage": "https://example.com/images/virat-kohli.jpg"
+    "playerImage": "https://i.ibb.co.com/1Gy50M0W/images.jpg"
   },
   {
     "playerName": "Babar Azam",
@@ -17,7 +17,7 @@
     "battingStyle": "Right-hand bat",
     "BollingStyle": "Right-arm off break",
     "Price": 1800000,
-    "playerImage": "https://example.com/images/babar-azam.jpg"
+    "playerImage": "https://i.ibb.co.com/1JQz7gL5/1749462943083-babar-azam.webp"
   },
   {
     "playerName": "Joe Root",
@@ -27,7 +27,7 @@
     "battingStyle": "Right-hand bat",
     "BollingStyle": "Right-arm off break",
     "Price": 1700000,
-    "playerImage": "https://example.com/images/joe-root.jpg"
+    "playerImage": "https://i.ibb.co.com/nNZ52zrv/2c599920-ef7b-11ef-bfcc-df31b19992af.jpg"
   },
   {
     "playerName": "Kane Williamson",
@@ -37,7 +37,7 @@
     "battingStyle": "Right-hand bat",
     "BollingStyle": "Right-arm off break",
     "Price": 1650000,
-    "playerImage": "https://example.com/images/kane-williamson.jpg"
+    "playerImage": "https://i.ibb.co.com/TD0HF3Vg/kane-williamson-blog-image.jpg"
   },
   {
     "playerName": "Ben Stokes",
@@ -47,7 +47,7 @@
     "battingStyle": "Left-hand bat",
     "BollingStyle": "Right-arm fast-medium",
     "Price": 1900000,
-    "playerImage": "https://example.com/images/ben-stokes.jpg"
+    "playerImage": "https://i.ibb.co.com/3y1F48Hp/84522a0c15e2730e8137ef6162579936.png"
   },
   {
     "playerName": "Shakib Al Hasan",
@@ -57,7 +57,7 @@
     "battingStyle": "Left-hand bat",
     "BollingStyle": "Left-arm orthodox",
     "Price": 1850000,
-    "playerImage": "https://example.com/images/shakib-al-hasan.jpg"
+    "playerImage": "https://i.ibb.co.com/sdvQWtkr/Shakib-Al-Hasan-1-1.jpg"
   },
   {
     "playerName": "Jasprit Bumrah",
@@ -67,7 +67,7 @@
     "battingStyle": "Right-hand bat",
     "BollingStyle": "Right-arm fast",
     "Price": 1750000,
-    "playerImage": "https://example.com/images/jasprit-bumrah.jpg"
+    "playerImage": "https://i.ibb.co.com/7JvSrz5k/Jasprit-Bumrah.webp"
   },
   {
     "playerName": "Mitchell Starc",
@@ -77,6 +77,6 @@
     "battingStyle": "Left-hand bat",
     "BollingStyle": "Left-arm fast",
     "Price": 1720000,
-    "playerImage": "https://example.com/images/mitchell-starc.jpg"
+    "playerImage": "https://i.ibb.co.com/jkp1kWV6/20250909174088708862-original-min-scaled.jpg"
   }
 ]
