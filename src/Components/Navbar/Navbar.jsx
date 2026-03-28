@@ -2,7 +2,6 @@ import React from 'react';
 import dollarImg from '../../assets/dollar 1.png'
 
 const Navbar = ({coin}) => {
-    console.log(coin);
     return (
         <nav className='bg-base-100 shadow-sm'>
             <div className="navbar container mx-auto">
